@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\bin\Debug\net7.0\PasosDesdeCero.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\bin\Debug\net7.0\PasosDesdeCero.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\bin\Debug\net7.0\PasosDesdeCero.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\bin\Debug\net7.0\PasosDesdeCero.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\bin\Debug\net7.0\PasosDesdeCero.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\obj\Debug\net7.0\PasosDesdeCero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\obj\Debug\net7.0\PasosDesdeCero.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\obj\Debug\net7.0\PasosDesdeCero.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\obj\Debug\net7.0\PasosDesdeCero.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\obj\Debug\net7.0\PasosDesdeCero.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\obj\Debug\net7.0\refint\PasosDesdeCero.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\obj\Debug\net7.0\PasosDesdeCero.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\obj\Debug\net7.0\PasosDesdeCero.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\PasosDesdeCero\obj\Debug\net7.0\ref\PasosDesdeCero.dll

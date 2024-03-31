@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Objetos_02_Siete_y_media/1.0.0": {
+        "dependencies": {
+          "Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "Objetos_02_Siete_y_media.dll": {}
+        }
+      },
+      "Utilidades/1.0.0": {
+        "runtime": {
+          "Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Objetos_02_Siete_y_media/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\bin\Debug\net7.0\QueVocalesContiene.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\bin\Debug\net7.0\QueVocalesContiene.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\bin\Debug\net7.0\QueVocalesContiene.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\bin\Debug\net7.0\QueVocalesContiene.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\bin\Debug\net7.0\QueVocalesContiene.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\obj\Debug\net7.0\QueVocalesContiene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\obj\Debug\net7.0\QueVocalesContiene.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\obj\Debug\net7.0\QueVocalesContiene.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\obj\Debug\net7.0\QueVocalesContiene.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\obj\Debug\net7.0\QueVocalesContiene.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\obj\Debug\net7.0\refint\QueVocalesContiene.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\obj\Debug\net7.0\QueVocalesContiene.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\obj\Debug\net7.0\QueVocalesContiene.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\QueVocalesContiene\obj\Debug\net7.0\ref\QueVocalesContiene.dll

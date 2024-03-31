@@ -1,0 +1,28 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\bin\Debug\net7.0\Funciones_03_Tablas.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\bin\Debug\net7.0\Funciones_03_Tablas.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\bin\Debug\net7.0\Funciones_03_Tablas.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\obj\Debug\net7.0\refint\Funciones_03_Tablas.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\obj\Debug\net7.0\ref\Funciones_03_Tablas.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\bin\Debug\net7.0\Funciones_03_Tablas.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\bin\Debug\net7.0\Funciones_03_Tablas.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Fuciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.genruntimeconfig.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\bin\Debug\net7.0\Funciones_03_Tablas.exe
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\bin\Debug\net7.0\Funciones_03_Tablas.deps.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\bin\Debug\net7.0\Funciones_03_Tablas.runtimeconfig.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\bin\Debug\net7.0\Funciones_03_Tablas.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\bin\Debug\net7.0\Funciones_03_Tablas.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.AssemblyInfoInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.AssemblyInfo.cs
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\obj\Debug\net7.0\refint\Funciones_03_Tablas.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\obj\Debug\net7.0\Funciones_03_Tablas.genruntimeconfig.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_03_Tablas\obj\Debug\net7.0\ref\Funciones_03_Tablas.dll

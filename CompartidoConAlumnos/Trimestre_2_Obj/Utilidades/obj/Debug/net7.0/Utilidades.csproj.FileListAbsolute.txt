@@ -1,0 +1,55 @@
+C:/Users/Profesor/ftoblare/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/bin/Debug/net7.0/Utilidades.deps.json
+C:/Users/Profesor/ftoblare/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/bin/Debug/net7.0/Utilidades.dll
+C:/Users/Profesor/ftoblare/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/bin/Debug/net7.0/Utilidades.pdb
+C:/Users/Profesor/ftoblare/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Profesor/ftoblare/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/Utilidades.AssemblyInfoInputs.cache
+C:/Users/Profesor/ftoblare/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/Utilidades.AssemblyInfo.cs
+C:/Users/Profesor/ftoblare/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/Utilidades.csproj.CoreCompileInputs.cache
+C:/Users/Profesor/ftoblare/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/Utilidades.dll
+C:/Users/Profesor/ftoblare/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/refint/Utilidades.dll
+C:/Users/Profesor/ftoblare/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/Utilidades.pdb
+C:/Users/Profesor/ftoblare/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/ref/Utilidades.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/bin/Debug/net7.0/Utilidades.deps.json
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/bin/Debug/net7.0/Utilidades.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/bin/Debug/net7.0/Utilidades.pdb
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/Utilidades.AssemblyInfoInputs.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/Utilidades.AssemblyInfo.cs
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/Utilidades.csproj.CoreCompileInputs.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/Utilidades.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/refint/Utilidades.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/Utilidades.pdb
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/CompartidoConAlumnos/Trimestre_2_Obj/Utilidades/obj/Debug/net7.0/ref/Utilidades.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\bin\Debug\net7.0\Utilidades.deps.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\bin\Debug\net7.0\Utilidades.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\bin\Debug\net7.0\Utilidades.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.AssemblyInfoInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.AssemblyInfo.cs
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\refint\Utilidades.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\ref\Utilidades.dll
+Z:\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\bin\Debug\net7.0\Utilidades.deps.json
+Z:\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\bin\Debug\net7.0\Utilidades.dll
+Z:\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\bin\Debug\net7.0\Utilidades.pdb
+Z:\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+Z:\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.AssemblyInfoInputs.cache
+Z:\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.AssemblyInfo.cs
+Z:\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.csproj.CoreCompileInputs.cache
+Z:\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.dll
+Z:\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\refint\Utilidades.dll
+Z:\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.pdb
+Z:\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\ref\Utilidades.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\bin\Debug\net7.0\Utilidades.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\bin\Debug\net7.0\Utilidades.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\bin\Debug\net7.0\Utilidades.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\refint\Utilidades.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\Utilidades.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Utilidades\obj\Debug\net7.0\ref\Utilidades.dll

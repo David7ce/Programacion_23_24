@@ -1,0 +1,36 @@
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Objetos_02_Siete_y_media.exe
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Objetos_02_Siete_y_media.deps.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Objetos_02_Siete_y_media.runtimeconfig.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Objetos_02_Siete_y_media.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Objetos_02_Siete_y_media.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.AssemblyInfoInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.AssemblyInfo.cs
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\refint\Objetos_02_Siete_y_media.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.genruntimeconfig.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\ref\Objetos_02_Siete_y_media.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Utilidades.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Utilidades.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.csproj.AssemblyReference.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.csproj.CopyComplete
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Objetos_02_Siete_y_media.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Objetos_02_Siete_y_media.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Objetos_02_Siete_y_media.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Objetos_02_Siete_y_media.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Objetos_02_Siete_y_media.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Utilidades.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\bin\Debug\net7.0\Utilidades.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.csproj.AssemblyReference.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.csproj.CopyComplete
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\refint\Objetos_02_Siete_y_media.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\Objetos_02_Siete_y_media.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Siete_y_media\obj\Debug\net7.0\ref\Objetos_02_Siete_y_media.dll

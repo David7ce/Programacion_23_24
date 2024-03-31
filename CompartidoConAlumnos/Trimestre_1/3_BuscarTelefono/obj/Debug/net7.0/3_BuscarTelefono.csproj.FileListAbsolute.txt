@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\bin\Debug\net7.0\3_BuscarTelefono.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\bin\Debug\net7.0\3_BuscarTelefono.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\bin\Debug\net7.0\3_BuscarTelefono.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\bin\Debug\net7.0\3_BuscarTelefono.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\bin\Debug\net7.0\3_BuscarTelefono.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\obj\Debug\net7.0\3_BuscarTelefono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\obj\Debug\net7.0\3_BuscarTelefono.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\obj\Debug\net7.0\3_BuscarTelefono.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\obj\Debug\net7.0\3_BuscarTelefono.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\obj\Debug\net7.0\3_BuscarTelefono.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\obj\Debug\net7.0\refint\3_BuscarTelefono.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\obj\Debug\net7.0\3_BuscarTelefono.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\obj\Debug\net7.0\3_BuscarTelefono.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\3_BuscarTelefono\obj\Debug\net7.0\ref\3_BuscarTelefono.dll

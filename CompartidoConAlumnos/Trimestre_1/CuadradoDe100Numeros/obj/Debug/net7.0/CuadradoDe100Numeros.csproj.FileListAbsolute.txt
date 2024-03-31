@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\bin\Debug\net7.0\CuadradoDe100Numeros.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\bin\Debug\net7.0\CuadradoDe100Numeros.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\bin\Debug\net7.0\CuadradoDe100Numeros.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\bin\Debug\net7.0\CuadradoDe100Numeros.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\bin\Debug\net7.0\CuadradoDe100Numeros.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\obj\Debug\net7.0\CuadradoDe100Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\obj\Debug\net7.0\CuadradoDe100Numeros.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\obj\Debug\net7.0\CuadradoDe100Numeros.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\obj\Debug\net7.0\CuadradoDe100Numeros.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\obj\Debug\net7.0\CuadradoDe100Numeros.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\obj\Debug\net7.0\refint\CuadradoDe100Numeros.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\obj\Debug\net7.0\CuadradoDe100Numeros.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\obj\Debug\net7.0\CuadradoDe100Numeros.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuadradoDe100Numeros\obj\Debug\net7.0\ref\CuadradoDe100Numeros.dll

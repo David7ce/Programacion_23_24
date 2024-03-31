@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\bin\Debug\net7.0\Objetos_03.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\bin\Debug\net7.0\Objetos_03.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\bin\Debug\net7.0\Objetos_03.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\bin\Debug\net7.0\Objetos_03.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\bin\Debug\net7.0\Objetos_03.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\obj\Debug\net7.0\Objetos_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\obj\Debug\net7.0\Objetos_03.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\obj\Debug\net7.0\Objetos_03.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\obj\Debug\net7.0\Objetos_03.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\obj\Debug\net7.0\Objetos_03.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\obj\Debug\net7.0\refint\Objetos_03.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\obj\Debug\net7.0\Objetos_03.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\obj\Debug\net7.0\Objetos_03.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_03\obj\Debug\net7.0\ref\Objetos_03.dll

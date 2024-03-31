@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\bin\Debug\net7.0\Funciones_05.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\bin\Debug\net7.0\Funciones_05.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\bin\Debug\net7.0\Funciones_05.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\bin\Debug\net7.0\Funciones_05.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\bin\Debug\net7.0\Funciones_05.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\refint\Funciones_05.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\ref\Funciones_05.dll

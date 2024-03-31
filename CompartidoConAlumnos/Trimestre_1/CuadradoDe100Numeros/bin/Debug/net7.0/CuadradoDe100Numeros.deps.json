@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CuadradoDe100Numeros/1.0.0": {
+        "runtime": {
+          "CuadradoDe100Numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CuadradoDe100Numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

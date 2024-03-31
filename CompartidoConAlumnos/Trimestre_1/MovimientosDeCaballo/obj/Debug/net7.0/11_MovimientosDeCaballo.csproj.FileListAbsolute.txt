@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\bin\Debug\net7.0\11_MovimientosDeCaballo.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\bin\Debug\net7.0\11_MovimientosDeCaballo.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\bin\Debug\net7.0\11_MovimientosDeCaballo.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\bin\Debug\net7.0\11_MovimientosDeCaballo.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\bin\Debug\net7.0\11_MovimientosDeCaballo.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\obj\Debug\net7.0\11_MovimientosDeCaballo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\obj\Debug\net7.0\11_MovimientosDeCaballo.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\obj\Debug\net7.0\11_MovimientosDeCaballo.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\obj\Debug\net7.0\11_MovimientosDeCaballo.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\obj\Debug\net7.0\11_MovimientosDeCaballo.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\obj\Debug\net7.0\refint\11_MovimientosDeCaballo.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\obj\Debug\net7.0\11_MovimientosDeCaballo.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\obj\Debug\net7.0\11_MovimientosDeCaballo.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\MovimientosDeCaballo\obj\Debug\net7.0\ref\11_MovimientosDeCaballo.dll

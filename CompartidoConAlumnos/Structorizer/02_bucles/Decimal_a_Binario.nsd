@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.32-11" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" author="ftoblare" created="2023-10-03" changedby="ftoblare" changed="2023-10-04" origin="Structorizer 3.32-11" text="&#34;Decimal a Binario&#34;" comment="" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;numero &#60;- es el decimal que pasaré a binario&#34;,&#34;binario &#60;- es la cadena de 0 y 1 sobre la que concateno los digitos binarios &#34;,&#34;resto &#60;- para calcular los restos de dividir entre 2&#34;,&#34;cociente &#60;- contendrá el cociente entero de dividir entre 2&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;Pedir numero&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;Asignar a cociente el numero&#34;,&#34;binario &#60;- &#34;&#34;&#34;&#34;&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<repeat text="&#34;until cociente == 0&#34;" comment="&#34;&#34;" color="ffffff" disabled="0">
+			<qRepeat>
+				<instruction text="&#34;calcular resto del cociente dividido entre dos&#34;,&#34;    y guardarlo en resto&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+				<instruction text="&#34;calcular cociente dividido entre dos (sin decimales)&#34;,&#34;    y guardarlo en cociente&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+				<instruction text="&#34;concatenar el digito resto poniendolo delante de la cadena binario &#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qRepeat>
+		</repeat>
+		<instruction text="&#34;Mostrar binario&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+	</children>
+</root>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FiguraAsterisco_2/1.0.0": {
+        "runtime": {
+          "FiguraAsterisco_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FiguraAsterisco_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+A, B variables para limites leidos
+C variable para datos a chequear
+
+Leer A y B
+Leer C
+
+SI C>=A y C<=B o bien C<=A y C>=B ENTONCES
+	Mostrar "Pertenece"
+SINO
+	Mostrar "Error"
+FINSI

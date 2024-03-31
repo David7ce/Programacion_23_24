@@ -1,0 +1,13 @@
+numero es la variable entera para el dato leido
+Leer numero
+SI (numero) == (parte entera de numero) ENTONCES
+	// si numero no tiene decimales
+	ES ENTERO
+SINO
+	NO ES ENTERO
+FINSI
+
+mitad <- numero / 2 sin decimales
+SI (numero es par) y (mitad es impar) ENTONCES
+   Mostrar "Si Cumple"
+FINSI

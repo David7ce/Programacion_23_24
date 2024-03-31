@@ -1,0 +1,14 @@
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\bin\Debug\net7.0\3_Figura.exe
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\bin\Debug\net7.0\3_Figura.deps.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\bin\Debug\net7.0\3_Figura.runtimeconfig.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\bin\Debug\net7.0\3_Figura.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\bin\Debug\net7.0\3_Figura.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\obj\Debug\net7.0\3_Figura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\obj\Debug\net7.0\3_Figura.AssemblyInfoInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\obj\Debug\net7.0\3_Figura.AssemblyInfo.cs
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\obj\Debug\net7.0\3_Figura.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\obj\Debug\net7.0\3_Figura.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\obj\Debug\net7.0\refint\3_Figura.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\obj\Debug\net7.0\3_Figura.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\obj\Debug\net7.0\3_Figura.genruntimeconfig.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Figura\obj\Debug\net7.0\ref\3_Figura.dll

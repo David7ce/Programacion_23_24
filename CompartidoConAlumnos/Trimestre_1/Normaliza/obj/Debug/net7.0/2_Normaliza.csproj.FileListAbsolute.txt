@@ -1,0 +1,14 @@
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\bin\Debug\net7.0\2_Normaliza.exe
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\bin\Debug\net7.0\2_Normaliza.deps.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\bin\Debug\net7.0\2_Normaliza.runtimeconfig.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\bin\Debug\net7.0\2_Normaliza.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\bin\Debug\net7.0\2_Normaliza.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\obj\Debug\net7.0\2_Normaliza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\obj\Debug\net7.0\2_Normaliza.AssemblyInfoInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\obj\Debug\net7.0\2_Normaliza.AssemblyInfo.cs
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\obj\Debug\net7.0\2_Normaliza.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\obj\Debug\net7.0\2_Normaliza.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\obj\Debug\net7.0\refint\2_Normaliza.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\obj\Debug\net7.0\2_Normaliza.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\obj\Debug\net7.0\2_Normaliza.genruntimeconfig.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Normaliza\obj\Debug\net7.0\ref\2_Normaliza.dll

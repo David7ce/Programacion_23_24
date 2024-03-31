@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rectangulo
+comment1.params=x\ y\ alto\ ancho
+comment1.target=Rectangulo(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ perimetro()
+numComments=3

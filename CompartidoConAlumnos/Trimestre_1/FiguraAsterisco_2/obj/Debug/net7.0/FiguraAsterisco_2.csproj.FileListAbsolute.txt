@@ -1,0 +1,42 @@
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.exe
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.deps.json
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.runtimeconfig.json
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.dll
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.pdb
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.AssemblyInfoInputs.cache
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.AssemblyInfo.cs
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.dll
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\refint\FiguraAsterisco_2.dll
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.pdb
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.genruntimeconfig.cache
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\ref\FiguraAsterisco_2.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.exe
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.deps.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.runtimeconfig.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.AssemblyInfoInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.AssemblyInfo.cs
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\refint\FiguraAsterisco_2.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.genruntimeconfig.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\ref\FiguraAsterisco_2.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\bin\Debug\net7.0\FiguraAsterisco_2.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\refint\FiguraAsterisco_2.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\FiguraAsterisco_2.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\FiguraAsterisco_2\obj\Debug\net7.0\ref\FiguraAsterisco_2.dll

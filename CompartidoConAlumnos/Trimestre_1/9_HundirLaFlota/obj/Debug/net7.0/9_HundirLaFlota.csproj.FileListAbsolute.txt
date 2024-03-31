@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\bin\Debug\net7.0\9_HundirLaFlota.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\bin\Debug\net7.0\9_HundirLaFlota.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\bin\Debug\net7.0\9_HundirLaFlota.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\bin\Debug\net7.0\9_HundirLaFlota.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\bin\Debug\net7.0\9_HundirLaFlota.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\obj\Debug\net7.0\9_HundirLaFlota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\obj\Debug\net7.0\9_HundirLaFlota.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\obj\Debug\net7.0\9_HundirLaFlota.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\obj\Debug\net7.0\9_HundirLaFlota.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\obj\Debug\net7.0\9_HundirLaFlota.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\obj\Debug\net7.0\refint\9_HundirLaFlota.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\obj\Debug\net7.0\9_HundirLaFlota.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\obj\Debug\net7.0\9_HundirLaFlota.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\9_HundirLaFlota\obj\Debug\net7.0\ref\9_HundirLaFlota.dll

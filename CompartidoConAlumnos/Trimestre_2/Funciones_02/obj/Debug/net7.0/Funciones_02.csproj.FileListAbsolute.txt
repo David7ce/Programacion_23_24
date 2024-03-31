@@ -1,0 +1,28 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\bin\Debug\net7.0\Funciones_02.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\bin\Debug\net7.0\Funciones_02.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\bin\Debug\net7.0\Funciones_02.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\bin\Debug\net7.0\Funciones_02.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\bin\Debug\net7.0\Funciones_02.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\refint\Funciones_02.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\ref\Funciones_02.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\bin\Debug\net7.0\Funciones_02.exe
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\bin\Debug\net7.0\Funciones_02.deps.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\bin\Debug\net7.0\Funciones_02.runtimeconfig.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\bin\Debug\net7.0\Funciones_02.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\bin\Debug\net7.0\Funciones_02.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.AssemblyInfoInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.AssemblyInfo.cs
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\refint\Funciones_02.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\Funciones_02.genruntimeconfig.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_02\obj\Debug\net7.0\ref\Funciones_02.dll

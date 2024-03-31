@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Utilidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Utilidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Utilidades/1.0.0": {
+      "type": "project",
+      "path": "../Utilidades/Utilidades.csproj",
+      "msbuildProject": "../Utilidades/Utilidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Utilidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Profesor\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Profesor\\ftoblare\\Curso_2023_24\\PRO\\CompartidoConAlumnos\\Trimestre_2_Obj\\Objetos_02_Siete_y_media\\Objetos_02_Siete_y_media.csproj",
+      "projectName": "Objetos_02_Siete_y_media",
+      "projectPath": "C:\\Users\\Profesor\\ftoblare\\Curso_2023_24\\PRO\\CompartidoConAlumnos\\Trimestre_2_Obj\\Objetos_02_Siete_y_media\\Objetos_02_Siete_y_media.csproj",
+      "packagesPath": "C:\\Users\\Profesor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Profesor\\ftoblare\\Curso_2023_24\\PRO\\CompartidoConAlumnos\\Trimestre_2_Obj\\Objetos_02_Siete_y_media\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Profesor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Profesor\\ftoblare\\Curso_2023_24\\PRO\\CompartidoConAlumnos\\Trimestre_2_Obj\\Utilidades\\Utilidades.csproj": {
+              "projectPath": "C:\\Users\\Profesor\\ftoblare\\Curso_2023_24\\PRO\\CompartidoConAlumnos\\Trimestre_2_Obj\\Utilidades\\Utilidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\bin\Debug\net7.0\Funciones_05_parametros.exe
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\bin\Debug\net7.0\Funciones_05_parametros.deps.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\bin\Debug\net7.0\Funciones_05_parametros.runtimeconfig.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\bin\Debug\net7.0\Funciones_05_parametros.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\bin\Debug\net7.0\Funciones_05_parametros.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05_parametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05_parametros.AssemblyInfoInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05_parametros.AssemblyInfo.cs
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05_parametros.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05_parametros.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\refint\Funciones_05_parametros.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05_parametros.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\Funciones_05_parametros.genruntimeconfig.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_05\obj\Debug\net7.0\ref\Funciones_05_parametros.dll

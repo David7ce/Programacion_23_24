@@ -1,0 +1,14 @@
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\bin\Debug\net7.0\1_Secuencias.exe
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\bin\Debug\net7.0\1_Secuencias.deps.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\bin\Debug\net7.0\1_Secuencias.runtimeconfig.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\bin\Debug\net7.0\1_Secuencias.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\bin\Debug\net7.0\1_Secuencias.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\obj\Debug\net7.0\1_Secuencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\obj\Debug\net7.0\1_Secuencias.AssemblyInfoInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\obj\Debug\net7.0\1_Secuencias.AssemblyInfo.cs
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\obj\Debug\net7.0\1_Secuencias.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\obj\Debug\net7.0\1_Secuencias.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\obj\Debug\net7.0\refint\1_Secuencias.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\obj\Debug\net7.0\1_Secuencias.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\obj\Debug\net7.0\1_Secuencias.genruntimeconfig.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\BaseDePruebas\Secuencias\obj\Debug\net7.0\ref\1_Secuencias.dll

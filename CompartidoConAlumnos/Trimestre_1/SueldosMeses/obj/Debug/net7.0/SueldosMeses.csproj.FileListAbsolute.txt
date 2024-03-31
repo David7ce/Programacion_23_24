@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\bin\Debug\net7.0\SueldosMeses.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\bin\Debug\net7.0\SueldosMeses.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\bin\Debug\net7.0\SueldosMeses.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\bin\Debug\net7.0\SueldosMeses.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\bin\Debug\net7.0\SueldosMeses.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\obj\Debug\net7.0\SueldosMeses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\obj\Debug\net7.0\SueldosMeses.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\obj\Debug\net7.0\SueldosMeses.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\obj\Debug\net7.0\SueldosMeses.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\obj\Debug\net7.0\SueldosMeses.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\obj\Debug\net7.0\refint\SueldosMeses.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\obj\Debug\net7.0\SueldosMeses.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\obj\Debug\net7.0\SueldosMeses.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SueldosMeses\obj\Debug\net7.0\ref\SueldosMeses.dll

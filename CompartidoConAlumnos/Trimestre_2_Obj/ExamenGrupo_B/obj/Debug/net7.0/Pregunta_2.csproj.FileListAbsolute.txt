@@ -1,0 +1,14 @@
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\bin\Debug\net7.0\Pregunta_2.exe
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\bin\Debug\net7.0\Pregunta_2.deps.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\bin\Debug\net7.0\Pregunta_2.runtimeconfig.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\bin\Debug\net7.0\Pregunta_2.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\bin\Debug\net7.0\Pregunta_2.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\obj\Debug\net7.0\Pregunta_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\obj\Debug\net7.0\Pregunta_2.AssemblyInfoInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\obj\Debug\net7.0\Pregunta_2.AssemblyInfo.cs
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\obj\Debug\net7.0\Pregunta_2.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\obj\Debug\net7.0\Pregunta_2.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\obj\Debug\net7.0\refint\Pregunta_2.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\obj\Debug\net7.0\Pregunta_2.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\obj\Debug\net7.0\Pregunta_2.genruntimeconfig.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\Pregunta_2\obj\Debug\net7.0\ref\Pregunta_2.dll

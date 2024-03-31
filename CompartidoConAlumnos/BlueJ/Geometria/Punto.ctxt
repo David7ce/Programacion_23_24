@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=
+comment1.target=Punto()
+comment2.params=x\ y
+comment2.target=Punto(int,\ int)
+comment3.params=
+comment3.target=int\ getRadio()
+comment4.params=r
+comment4.target=void\ setRadio(int)
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=x
+comment6.target=Punto\ setX(int)
+comment7.params=
+comment7.target=int\ getY()
+comment8.params=y
+comment8.target=Punto\ setY(int)
+numComments=9

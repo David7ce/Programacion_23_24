@@ -1,0 +1,42 @@
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.exe
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.deps.json
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.runtimeconfig.json
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.dll
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.pdb
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.AssemblyInfoInputs.cache
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.AssemblyInfo.cs
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.csproj.CoreCompileInputs.cache
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.dll
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\obj\Debug\net7.0\refint\SumaDigitos.dll
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.pdb
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.genruntimeconfig.cache
+Z:\ftoblare\PRO\Proyectos\Trimestre_1\SumaDigitos\obj\Debug\net7.0\ref\SumaDigitos.dll
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.exe
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.deps.json
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.runtimeconfig.json
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.dll
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.pdb
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.AssemblyInfoInputs.cache
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.AssemblyInfo.cs
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.dll
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\refint\SumaDigitos.dll
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.pdb
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.genruntimeconfig.cache
+G:\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\ref\SumaDigitos.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\bin\Debug\net7.0\SumaDigitos.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\refint\SumaDigitos.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\SumaDigitos.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\SumaDigitos\obj\Debug\net7.0\ref\SumaDigitos.dll

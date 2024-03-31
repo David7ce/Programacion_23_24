@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.32-11" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" author="1dawa" created="2023-10-04" changedby="ftoblare" changed="2023-10-17" origin="Structorizer 3.32-11" text="&#34;Ejercicio04&#34;" comment="" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;INPUT &#34;&#34;Introduce un número&#34;&#34; , num&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<alternative text="&#34;(num&#62;15)&#34;" comment="" color="ffffff" disabled="0">
+			<qTrue>
+				<instruction text="&#34;multiplicación=num*3&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+				<instruction text="&#34;multiplicación+100&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qTrue>
+			<qFalse>
+				<instruction text="&#34;multiplicación=num*5&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+				<alternative text="&#34;(multiplicación&#60;20)&#34;" comment="" color="ffffff" disabled="0">
+					<qTrue>
+						<instruction text="&#34;multiplicación+200&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+					</qTrue>
+					<qFalse>
+						<instruction text="&#34;multiplicación+100&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+					</qFalse>
+				</alternative>
+			</qFalse>
+		</alternative>
+	</children>
+</root>

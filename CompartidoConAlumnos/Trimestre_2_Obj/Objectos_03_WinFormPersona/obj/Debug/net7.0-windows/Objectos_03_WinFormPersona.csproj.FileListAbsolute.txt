@@ -1,0 +1,16 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\bin\Debug\net7.0-windows\Objectos_03_WinFormPersona.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\bin\Debug\net7.0-windows\Objectos_03_WinFormPersona.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\bin\Debug\net7.0-windows\Objectos_03_WinFormPersona.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\bin\Debug\net7.0-windows\Objectos_03_WinFormPersona.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\bin\Debug\net7.0-windows\Objectos_03_WinFormPersona.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\obj\Debug\net7.0-windows\WinFormPersona.Form1.resources
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\obj\Debug\net7.0-windows\Objectos_03_WinFormPersona.csproj.GenerateResource.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\obj\Debug\net7.0-windows\Objectos_03_WinFormPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\obj\Debug\net7.0-windows\Objectos_03_WinFormPersona.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\obj\Debug\net7.0-windows\Objectos_03_WinFormPersona.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\obj\Debug\net7.0-windows\Objectos_03_WinFormPersona.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\obj\Debug\net7.0-windows\Objectos_03_WinFormPersona.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\obj\Debug\net7.0-windows\refint\Objectos_03_WinFormPersona.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\obj\Debug\net7.0-windows\Objectos_03_WinFormPersona.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\obj\Debug\net7.0-windows\Objectos_03_WinFormPersona.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objectos_03_WinFormPersona\obj\Debug\net7.0-windows\ref\Objectos_03_WinFormPersona.dll

@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\bin\Debug\net7.0\CuantasVocales.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\bin\Debug\net7.0\CuantasVocales.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\bin\Debug\net7.0\CuantasVocales.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\bin\Debug\net7.0\CuantasVocales.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\bin\Debug\net7.0\CuantasVocales.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\obj\Debug\net7.0\CuantasVocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\obj\Debug\net7.0\CuantasVocales.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\obj\Debug\net7.0\CuantasVocales.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\obj\Debug\net7.0\CuantasVocales.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\obj\Debug\net7.0\CuantasVocales.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\obj\Debug\net7.0\refint\CuantasVocales.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\obj\Debug\net7.0\CuantasVocales.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\obj\Debug\net7.0\CuantasVocales.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\CuantasVocales\obj\Debug\net7.0\ref\CuantasVocales.dll

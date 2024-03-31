@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.32-11" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" namespace="" author="ftoblare" created="2023-10-09" changedby="ftoblare" changed="2023-10-09" origin="Structorizer 3.32-11" text="&#34;MCD_Euclides&#34;" comment="" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;num1 &#60;- primer numero&#34;,&#34;num2 &#60;- segundo numero&#34;,&#34;resto &#60;- resto de divisiones&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;Pedir dos números... num1 y num2&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<alternative text="&#34;num1 es menor&#34;,&#34;    que num2&#34;" comment="" color="ffffff" disabled="0">
+			<qTrue>
+				<instruction text="&#34;menor &#60;- num1&#34;,&#34;mayor &#60;- num2&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qTrue>
+			<qFalse>
+				<instruction text="&#34;menor &#60;- num2&#34;,&#34;mayor &#60;- num1&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qFalse>
+		</alternative>
+		<instruction text="&#34;Calcular del resto de&#34;,&#34;   dividir mayor entre menor&#34;,&#34;   y guardar el resultado en la variable resto&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<while text="&#34;Mientras resto sea distinto de 0&#34;" comment="&#34;&#34;" color="ffffff" disabled="0">
+			<qWhile>
+				<instruction text="&#34;mayor &#60;- menor&#34;,&#34;menor &#60;- resto&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+				<instruction text="&#34;Calcular del resto de&#34;,&#34;   dividir mayor entre menor&#34;,&#34;   y guardar el resultado en la variable resto&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qWhile>
+		</while>
+		<instruction text="&#34;Solucion en la variable menor&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+	</children>
+</root>

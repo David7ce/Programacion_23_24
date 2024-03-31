@@ -1,0 +1,36 @@
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Funciones_06_ejercicios.exe
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Funciones_06_ejercicios.deps.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Funciones_06_ejercicios.runtimeconfig.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Funciones_06_ejercicios.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Funciones_06_ejercicios.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.AssemblyInfoInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.AssemblyInfo.cs
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\refint\Funciones_06_ejercicios.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.genruntimeconfig.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\ref\Funciones_06_ejercicios.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Funciones_06_ejercicios.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Funciones_06_ejercicios.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Funciones_06_ejercicios.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Funciones_06_ejercicios.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Funciones_06_ejercicios.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\refint\Funciones_06_ejercicios.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\ref\Funciones_06_ejercicios.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Utilidades.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Utilidades.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.csproj.AssemblyReference.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.csproj.CopyComplete
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.csproj.AssemblyReference.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Utilidades.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\bin\Debug\net7.0\Utilidades.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2\Funciones_06\obj\Debug\net7.0\Funciones_06_ejercicios.csproj.CopyComplete

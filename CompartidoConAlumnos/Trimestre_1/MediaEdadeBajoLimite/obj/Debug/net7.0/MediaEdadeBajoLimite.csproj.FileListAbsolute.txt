@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\bin\Debug\net7.0\MediaEdadeBajoLimite.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\bin\Debug\net7.0\MediaEdadeBajoLimite.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\bin\Debug\net7.0\MediaEdadeBajoLimite.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\bin\Debug\net7.0\MediaEdadeBajoLimite.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\bin\Debug\net7.0\MediaEdadeBajoLimite.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\obj\Debug\net7.0\MediaEdadeBajoLimite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\obj\Debug\net7.0\MediaEdadeBajoLimite.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\obj\Debug\net7.0\MediaEdadeBajoLimite.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\obj\Debug\net7.0\MediaEdadeBajoLimite.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\obj\Debug\net7.0\MediaEdadeBajoLimite.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\obj\Debug\net7.0\refint\MediaEdadeBajoLimite.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\obj\Debug\net7.0\MediaEdadeBajoLimite.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\obj\Debug\net7.0\MediaEdadeBajoLimite.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MediaEdadeBajoLimite\obj\Debug\net7.0\ref\MediaEdadeBajoLimite.dll

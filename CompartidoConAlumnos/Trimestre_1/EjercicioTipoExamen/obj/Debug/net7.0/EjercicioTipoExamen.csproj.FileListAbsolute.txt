@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\bin\Debug\net7.0\EjercicioTipoExamen.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\bin\Debug\net7.0\EjercicioTipoExamen.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\bin\Debug\net7.0\EjercicioTipoExamen.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\bin\Debug\net7.0\EjercicioTipoExamen.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\bin\Debug\net7.0\EjercicioTipoExamen.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\obj\Debug\net7.0\EjercicioTipoExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\obj\Debug\net7.0\EjercicioTipoExamen.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\obj\Debug\net7.0\EjercicioTipoExamen.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\obj\Debug\net7.0\EjercicioTipoExamen.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\obj\Debug\net7.0\EjercicioTipoExamen.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\obj\Debug\net7.0\refint\EjercicioTipoExamen.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\obj\Debug\net7.0\EjercicioTipoExamen.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\obj\Debug\net7.0\EjercicioTipoExamen.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\EjercicioTipoExamen\obj\Debug\net7.0\ref\EjercicioTipoExamen.dll

@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\bin\Debug\net7.0\09_IslaEnHundirLaFlota.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\bin\Debug\net7.0\09_IslaEnHundirLaFlota.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\bin\Debug\net7.0\09_IslaEnHundirLaFlota.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\bin\Debug\net7.0\09_IslaEnHundirLaFlota.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\bin\Debug\net7.0\09_IslaEnHundirLaFlota.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\obj\Debug\net7.0\09_IslaEnHundirLaFlota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\obj\Debug\net7.0\09_IslaEnHundirLaFlota.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\obj\Debug\net7.0\09_IslaEnHundirLaFlota.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\obj\Debug\net7.0\09_IslaEnHundirLaFlota.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\obj\Debug\net7.0\09_IslaEnHundirLaFlota.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\obj\Debug\net7.0\refint\09_IslaEnHundirLaFlota.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\obj\Debug\net7.0\09_IslaEnHundirLaFlota.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\obj\Debug\net7.0\09_IslaEnHundirLaFlota.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_1\IslaEnHundirLaFlota\obj\Debug\net7.0\ref\09_IslaEnHundirLaFlota.dll

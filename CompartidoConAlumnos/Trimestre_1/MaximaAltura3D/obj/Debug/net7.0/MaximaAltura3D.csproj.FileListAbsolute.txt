@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\bin\Debug\net7.0\MaximaAltura3D.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\bin\Debug\net7.0\MaximaAltura3D.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\bin\Debug\net7.0\MaximaAltura3D.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\bin\Debug\net7.0\MaximaAltura3D.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\bin\Debug\net7.0\MaximaAltura3D.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\obj\Debug\net7.0\MaximaAltura3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\obj\Debug\net7.0\MaximaAltura3D.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\obj\Debug\net7.0\MaximaAltura3D.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\obj\Debug\net7.0\MaximaAltura3D.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\obj\Debug\net7.0\MaximaAltura3D.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\obj\Debug\net7.0\refint\MaximaAltura3D.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\obj\Debug\net7.0\MaximaAltura3D.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\obj\Debug\net7.0\MaximaAltura3D.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\MaximaAltura3D\obj\Debug\net7.0\ref\MaximaAltura3D.dll

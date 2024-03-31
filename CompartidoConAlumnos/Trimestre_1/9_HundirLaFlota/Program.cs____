@@ -1,0 +1,42 @@
+﻿namespace HundirLaFlota;
+internal class Program
+{
+    static void Main(string[] args)
+    {
+        const char AGUA = '·';
+        String sFila = "ABCDEFGHIJ";
+        char[,] tabla = {
+            {AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA},
+            {AGUA,'P' ,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA},
+            {AGUA,'P' ,AGUA,'T' ,'T' ,'T' ,AGUA,AGUA,AGUA,AGUA},
+            {AGUA,'P' ,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA},
+            {AGUA,'P' ,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA},
+            {AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA},
+            {AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA},
+            {AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA},
+            {AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA},
+            {AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA,AGUA}
+        };
+        Console.Write("     ");
+        for (int col = 0; col < tabla.GetLength(1); col++)
+        {
+            Console.Write("{0} ", col + 1);
+        }
+        Console.WriteLine();
+        for (int fila = 0; fila < tabla.GetLength(0); fila++)
+        {
+            //            Console.Write("{0} - ", sFila[fila]);
+            Console.Write("{0} - ", (char)('A' + fila));
+            for (int col = 0; col < tabla.GetLength(1); col++)
+            {
+                Console.Write(" {0}", tabla[fila, col]);
+            }
+            Console.WriteLine();
+        }
+
+
+
+
+
+    }
+}

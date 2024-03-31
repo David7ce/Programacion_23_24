@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\bin\Debug\net7.0\Objetos_02_Tranvia_List.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\bin\Debug\net7.0\Objetos_02_Tranvia_List.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\bin\Debug\net7.0\Objetos_02_Tranvia_List.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\bin\Debug\net7.0\Objetos_02_Tranvia_List.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\bin\Debug\net7.0\Objetos_02_Tranvia_List.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\obj\Debug\net7.0\Objetos_02_Tranvia_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\obj\Debug\net7.0\Objetos_02_Tranvia_List.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\obj\Debug\net7.0\Objetos_02_Tranvia_List.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\obj\Debug\net7.0\Objetos_02_Tranvia_List.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\obj\Debug\net7.0\Objetos_02_Tranvia_List.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\obj\Debug\net7.0\refint\Objetos_02_Tranvia_List.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\obj\Debug\net7.0\Objetos_02_Tranvia_List.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\obj\Debug\net7.0\Objetos_02_Tranvia_List.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\CompartidoConAlumnos\Trimestre_2_Obj\Objetos_02_Tranvia_List\obj\Debug\net7.0\ref\Objetos_02_Tranvia_List.dll

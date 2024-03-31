@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.32-11" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" author="ftoblare" created="2023-11-07" changedby="ftoblare" changed="2023-11-08" origin="Structorizer 3.32-11" text="&#34;Busqueda Lineal&#34;" comment="" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;datos &#60;- lista de datos (en un array)&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<while text="&#34;Mientras (NO encuentro lo que busco) y (Queden Datos)&#34;" comment="" color="ffffff" disabled="0">
+			<qWhile>
+				<instruction text="&#34;sigo buscando&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qWhile>
+		</while>
+		<alternative text="&#34;el dato está&#34;,&#34;en la última posicion&#34;,&#34;en la que busqué&#34;" comment="&#34;&#34;" color="ffffff" disabled="0">
+			<qTrue>
+				<instruction text="&#34;Dato encontrado&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qTrue>
+			<qFalse>
+				<instruction text="&#34;Dato NO encontrado&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qFalse>
+		</alternative>
+	</children>
+</root>

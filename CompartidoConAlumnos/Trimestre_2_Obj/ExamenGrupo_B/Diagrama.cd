@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MemoryBase">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="JuegoAbstracto" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.75" Y="1" />
+        <Point X="5.5" Y="1" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAEAAAAAAAAAAAAAAAAAAABEAAA=</HashCode>
+      <FileName>pregunta1\MemoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memory">
+    <Position X="5.25" Y="3.25" Width="2" />
+    <InheritanceLine Type="MemoryBase" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.125" Y="2.761" />
+        <Point X="6.125" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pregunta2\Memory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jugador">
+    <Position X="2" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACUAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>pregunta1\Jugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegoAbstracto">
+    <Position X="3.5" Y="0.5" Width="1.25" />
+    <AssociationLine Name="ganador" Type="Jugador" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.5" Y="2.017" />
+        <Point X="2.5" Y="2.017" />
+        <Point X="2.5" Y="2.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.764" Y="0.541" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="pantallaVolatil" Type="Pantalla">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.132" Y="0.047" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAEAAAAAAAAAAAAIAACAAABAAAA=</HashCode>
+      <FileName>base\JuegoAbstracto.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ganador" />
+      <Field Name="pantallaVolatil" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Pantalla">
+    <Position X="0.5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAASAAAAAAAAAAAAAAgEAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>base\Pantalla.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Punto" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAABAAAAAAAABYABgAAQAQAA=</HashCode>
+      <FileName>Punto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

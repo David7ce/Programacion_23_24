@@ -1,0 +1,28 @@
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\bin\Debug\net7.0\ExamenGrupo_A.exe
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\bin\Debug\net7.0\ExamenGrupo_A.deps.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\bin\Debug\net7.0\ExamenGrupo_A.runtimeconfig.json
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\bin\Debug\net7.0\ExamenGrupo_A.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\bin\Debug\net7.0\ExamenGrupo_A.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.AssemblyInfoInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.AssemblyInfo.cs
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\refint\ExamenGrupo_A.dll
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.pdb
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.genruntimeconfig.cache
+C:\Users\Profesor\ftoblare\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ref\ExamenGrupo_A.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\bin\Debug\net7.0\ExamenGrupo_A.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\bin\Debug\net7.0\ExamenGrupo_A.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\bin\Debug\net7.0\ExamenGrupo_A.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\bin\Debug\net7.0\ExamenGrupo_A.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\bin\Debug\net7.0\ExamenGrupo_A.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\refint\ExamenGrupo_A.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ExamenGrupo_A.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Pruebas_Examenes_2023_24\Examen_2\ExamenGrupo_A\obj\Debug\net7.0\ref\ExamenGrupo_A.dll

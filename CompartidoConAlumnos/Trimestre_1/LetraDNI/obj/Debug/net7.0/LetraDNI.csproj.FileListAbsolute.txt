@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\bin\Debug\net7.0\LetraDNI.exe
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\bin\Debug\net7.0\LetraDNI.deps.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\bin\Debug\net7.0\LetraDNI.runtimeconfig.json
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\bin\Debug\net7.0\LetraDNI.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\bin\Debug\net7.0\LetraDNI.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\obj\Debug\net7.0\LetraDNI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\obj\Debug\net7.0\LetraDNI.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\obj\Debug\net7.0\LetraDNI.AssemblyInfo.cs
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\obj\Debug\net7.0\LetraDNI.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\obj\Debug\net7.0\LetraDNI.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\obj\Debug\net7.0\refint\LetraDNI.dll
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\obj\Debug\net7.0\LetraDNI.pdb
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\obj\Debug\net7.0\LetraDNI.genruntimeconfig.cache
+C:\Users\ftoblare\Mi unidad\Curso_2023_24\PRO\Trimestre_1\LetraDNI\obj\Debug\net7.0\ref\LetraDNI.dll

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.32-12" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" author="ftoblare" created="2023-10-26" changedby="Profesor" changed="2023-10-26" origin="Structorizer 3.32-11" text="&#34;FiguraAsteriscos_1&#34;" comment="" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;Pedir ancho&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;nAsteriscos &#60;- ancho&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<while text="&#34;repetir ancho veces&#34;" comment="" color="ffffff" disabled="0">
+			<qWhile>
+				<while text="&#34;repetir nAsteriscos veces&#34;" comment="" color="ffffff" disabled="0">
+					<qWhile>
+						<instruction text="&#34;mostrar un asterisco&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+					</qWhile>
+				</while>
+				<instruction text="&#34;cambiar de línea&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+				<instruction text="&#34;decrementar nAsteriscos en 1&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+			</qWhile>
+		</while>
+	</children>
+</root>

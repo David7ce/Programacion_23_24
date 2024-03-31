@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Naipes.Carta">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAQAAEAEAAAAAEAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Naipes\Carta.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="palo" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="nombreCarta" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Naipes.Mazo">
+    <Position X="0.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Naipes\Mazo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="cartas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="System.String" Collapsed="true">
+    <Position X="7" Y="2" Width="2.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Naipes.Mano">
+    <Position X="5" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAEAAAQAAgYAABAAABABAAAAAAAAAA=</HashCode>
+      <FileName>Mano.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Naipes.ManoSieteyMedia">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>ManoSieteyMedia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Naipes.Palo">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAEAAAAAAAEAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Naipes\Palo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,28 @@
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/bin/Debug/net7.0/RuletaPalabra.exe
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/bin/Debug/net7.0/RuletaPalabra.deps.json
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/bin/Debug/net7.0/RuletaPalabra.runtimeconfig.json
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/bin/Debug/net7.0/RuletaPalabra.dll
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/bin/Debug/net7.0/RuletaPalabra.pdb
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.AssemblyInfoInputs.cache
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.AssemblyInfo.cs
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.csproj.CoreCompileInputs.cache
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.dll
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/refint/RuletaPalabra.dll
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.pdb
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.genruntimeconfig.cache
+C:/Users/ftoblare/Mi unidad/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/ref/RuletaPalabra.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/bin/Debug/net7.0/RuletaPalabra
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/bin/Debug/net7.0/RuletaPalabra.deps.json
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/bin/Debug/net7.0/RuletaPalabra.runtimeconfig.json
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/bin/Debug/net7.0/RuletaPalabra.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/bin/Debug/net7.0/RuletaPalabra.pdb
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.AssemblyInfoInputs.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.AssemblyInfo.cs
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.csproj.CoreCompileInputs.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/refint/RuletaPalabra.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.pdb
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/RuletaPalabra.genruntimeconfig.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2023_24/PRO/Trimestre_1/RuletaPalabra/obj/Debug/net7.0/ref/RuletaPalabra.dll

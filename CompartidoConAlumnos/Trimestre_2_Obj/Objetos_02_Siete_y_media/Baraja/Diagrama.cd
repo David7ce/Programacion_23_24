@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Baraja.Mano">
+    <Position X="7.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAEAgAAAAAYAABAAABABAAAAAAAAAA=</HashCode>
+      <FileName>Baraja\Mano.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="cartas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Baraja.ManoSieteyMedia">
+    <Position X="7.25" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Baraja\ManoSieteyMedia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Baraja.Carta">
+    <Position X="3.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAEAEAAAAAAAEAABAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Baraja\Carta.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="palo" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Baraja.Mazo">
+    <Position X="0.5" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Baraja\Mazo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="cartas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Enum Name="Baraja.Palo">
+    <Position X="0.5" Y="1" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAEAAAAAAAEAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Baraja\Palo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
